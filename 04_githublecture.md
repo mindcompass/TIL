@@ -86,13 +86,13 @@
 
 2.  설치는 그냥 기본 디폴트로 쭉 설치하시면 됩니다.
 
-![image-20191216145249700](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20191216145249700.png)
+![image-20191216145249700](img/image-20191216145249700.png)
 
 
 
 3.  https://www.typora.io/ 에서 typora 프로그램을 설치합니다. 역시 기본 디폴트 값으로 설치하시면 됩니다. 
 
-![image-20191216145613937](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20191216145613937.png)
+![image-20191216145613937](img/image-20191216145613937.png)
 
 
 
