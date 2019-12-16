@@ -127,7 +127,7 @@ $ git push origin master
 
 - TIL폴더 내에서 학습을 원하는 내용의 폴더를 생성하고 파일들을 생성한 후 작업을 진행한다. 
 
-```python
+```shell
 $ mkdir python
 ```
 
