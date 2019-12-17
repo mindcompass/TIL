@@ -76,6 +76,8 @@
 
 - **`git log --oneline --graph`** :  master 및 각종 branch의 관계를 그래프와 함께 출력  
 
+- **`git branch -d [branch 이름]`**: 해당 브랜치 를 삭제함 
+
 
 
 
