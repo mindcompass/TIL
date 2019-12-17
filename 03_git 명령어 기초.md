@@ -72,7 +72,7 @@
 
 - **` git switch [변경될 branch 이름]`** : branch로 이동함 switch 대신 checkout을 쓰기도 함
 
-- **`git checkout`** : 
+- **`git checkout [master or branch or 커밋번호]`** : 해당 위치로  head(읽기 기능)를 위치함 
 
 - **`git log --oneline --graph`** :  master 및 각종 branch의 관계를 그래프와 함께 출력  
 
