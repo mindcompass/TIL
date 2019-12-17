@@ -13,6 +13,8 @@
 
 
 
+
+
 ### 2. git 상태 및  파일 관리 
 
 - **`git status`** : git의 상태를 파악함
@@ -26,6 +28,8 @@
 
 
 
+
+
 ### 3. git push 및 pull 사용 전 설정
 
 - **`git config --global user.name "[이름]"`**: 처음 git을 활용하기 위해서 이름을 설정함
@@ -35,6 +39,8 @@
 - **`git remote -v`**: 저장할 공간을 알려줌(주소까지 보여줌)
 - **`git remote add [원격 저장소 이름] [주소(깃허브 or 깃랩 등)]`** : 깃으로 저장할 저장소 및 원격 주소를 설정함
 - **`git remote rename [현재 저장소 이름] [새롭게 바꿀 이름]`** : 저장소
+
+
 
 
 
@@ -54,6 +60,8 @@
 
   
 
+  
+
   ### 5. branch 관련 명령어
 
 - **`git branch [브랜치 명]`** : 새롭게 브랜치를 생성함
@@ -67,6 +75,8 @@
 - **`git checkout`** : 
 
 - **`git log --oneline --graph`** :  master 및 각종 branch의 관계를 그래프와 함께 출력  
+
+
 
 
 
