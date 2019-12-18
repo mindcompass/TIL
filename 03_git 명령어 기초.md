@@ -11,9 +11,7 @@
 - **`rm -r [폴더명]`** : 해당 폴더를 삭제함
 - **`mv [이동할 파일/폴더]] [이동할 파일]`**: 파일이나 폴더 이동하기
 
-
-
-
+< br>
 
 ### 2. git 상태 및  파일 관리 
 
@@ -26,23 +24,19 @@
 - **`git log --oneline`**: 저장된 사항 다 보여주는데 1줄로 보여줘
 - **`touch [파일명]`** : 파일을 생성함
 
-
-
-
+< br>
 
 ### 3. git push 및 pull 사용 전 설정
 
 - **`git config --global user.name "[이름]"`**: 처음 git을 활용하기 위해서 이름을 설정함
 - **`git config --global user.email "[이메일 주소]"`** : 처음 git을 활용하기 위해서 이메일을 설정함
-
 - **`git remote`**: 현재 설정할 저장 공간을 알려줌
 - **`git remote -v`**: 저장할 공간을 알려줌(주소까지 보여줌)
 - **`git remote add [원격 저장소 이름] [주소(깃허브 or 깃랩 등)]`** : 깃으로 저장할 저장소 및 원격 주소를 설정함
+- **`git remote remove` **: 기존 설정된 주소를 삭제함
 - **`git remote rename [현재 저장소 이름] [새롭게 바꿀 이름]`** : 저장소
 
-
-
-
+< br>
 
 ### 4. git commit & push & pull 관련 
 
@@ -58,9 +52,7 @@
 
 - **`git pull [저장소 이름] [master ot branch 등]`** : 저장한 파일을 동일한 파일을 제외하고 다운받기
 
-  
-
-  
+  < br>
 
   ### 5. branch 관련 명령어
 
@@ -78,9 +70,7 @@
 
 - **`git branch -d [branch 이름]`**: 해당 브랜치 를 삭제함 
 
-
-
-
+< br>
 
 
 ### 6. add/ commit/ push/ pull 이해하기
